@@ -1,4 +1,4 @@
-package com.challenge.prdouctspg;
+package com.challenge.productspg;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
